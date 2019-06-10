@@ -1,2 +1,2 @@
 # DataSciMRP
-This Repository stores all data and code for my Data Science MRP through Ryerson University.
+This Repository stores all data and code for my Data Science MRP through Ryerson University.  All dataset can be found here: https://www.kaggle.com/netflix-inc/netflix-prize-data/version/1
